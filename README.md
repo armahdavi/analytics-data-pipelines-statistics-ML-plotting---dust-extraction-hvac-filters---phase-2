@@ -1,5 +1,5 @@
 ## Summary
-This repository summarizes all the data pipeline codes, statistical and machine learning models, descriptive statistics, and plot visualizations from Phase 2 of Mahdavi & Siegel (2020) (AS&ampT)
+This repository summarizes all the data pipeline codes, statistical and machine learning models, descriptive statistics, and plot visualizations from Phase 2 of Mahdavi & Siegel (2020) (AS&T)
 
 Project Milestone: 2017 - 2020
 
